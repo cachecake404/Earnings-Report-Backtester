@@ -8,7 +8,9 @@ Do note scraping the data for earnings report might take a minute.
 ## Requirements
 
 Install Python 3 - https://www.python.org/
+
 Install pandas_datareader - https://pandas-datareader.readthedocs.io/en/latest/
+
 Install yahoo-earnings-calendar - https://pypi.org/project/yahoo-earnings-calendar/
 
 ## Run
